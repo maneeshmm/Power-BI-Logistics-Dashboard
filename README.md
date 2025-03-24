@@ -1,5 +1,8 @@
 # Power BI Logistics Dashboard
 This Power BI dashboard project provides comprehensive visibility into the organization's logistics and supply chain operations from January 2022 through December 2024. The dashboard consolidates key performance indicators and visualizations to enable data-driven decision-making across the supply chain.
+
+![Dashboard]([https://github.com/username/repository/blob/main/image.jpg](https://github.com/maneeshmm/Power-BI-Logistics-Dashboard/blob/main/Logistics%20Data.png))
+
 # Overview Statistics
 
 Total Revenue: $2M
