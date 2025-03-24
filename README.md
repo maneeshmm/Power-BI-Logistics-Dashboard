@@ -1,5 +1,5 @@
 # Power BI Logistics Dashboard
-Based on the Power BI dashboard image, I can provide you with a comprehensive analysis of your shipment and revenue data:
+This Power BI dashboard project provides comprehensive visibility into the organization's logistics and supply chain operations from January 2022 through December 2024. The dashboard consolidates key performance indicators and visualizations to enable data-driven decision-making across the supply chain.
 # Overview Statistics
 
 Total Revenue: $2M
